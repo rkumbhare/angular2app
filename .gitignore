@@ -1,0 +1,14 @@
+/target/
+target
+.settings/*
+!.settings/.jsdtscope
+.project
+.classpath
+src/main/webapp/node_modules
+src/main/webapp/node_modules/
+src/main/webapp/typings/
+src/main/webapp/typings
+/std-lib/
+std-lib
+!src/main/webapp/dist
+src/main/webapp/dist/*.js.map
